@@ -48,20 +48,25 @@ J’utilise Power BI, Qlik Sense et Python pour créer des dashboards clairs, ad
 
 ## 🗂 Structure du portfolio
 
+<details>
+  <summary><strong>Structure du portfolio</strong></summary>
+
+<pre>
 portfolio-data-analyst/
-├─ README.md                ← cette page
+├─ README.md
 ├─ assets/
-│  ├─ images/               ← captures de dashboards
-│  └─ pdfs/                 ← cahiers des charges, procédures
+│  ├─ images/
+│  └─ pdfs/
 ├─ projects/
-│  ├─ P1/                   ← projets OpenClassrooms
+│  ├─ P1/
 │  ├─ P2/
 │  └─ P3/
 ├─ dashboards/
 │  ├─ powerbi/
 │  └─ qlik/
-└─ docs/                    ← documentation supplémentaire
-
+└─ docs/
+</pre>
+</details>
 
 ---
 
