@@ -46,7 +46,13 @@ J’utilise Power BI, Qlik Sense et Python pour créer des dashboards clairs, ad
 
 ---
 
-## 🧠 Veille et documentation
+## 🧠 Carte mentale du projet Portfolio
+
+📎 [Ouvrir la carte mentale en plein écran](mindmap.html)
+
+---
+
+##  Veille et documentation
 - **Veille métier & technologique** : outils BI, tendances data, IA appliquée à la data-viz  
 - **Procédures documentées** :  
   - Création de dashboards clairs et cohérents  
