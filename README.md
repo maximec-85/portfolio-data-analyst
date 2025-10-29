@@ -18,8 +18,8 @@ J’utilise Power BI, Qlik Sense et Python pour créer des dashboards clairs, ad
 
 ## 📊 Mes projets
 
-| Projet | Description | Liens |
-|:--|:--|:--|
+| Projet | Description |
+|:--|:--|
 | **P1 – Prenez en amin votre formation de Data Analyst** | [Voir le projet](projects/P1/README.md) |
 | **P2 – Faites une analyse de ventes pour un e-commerce** | [Voir le projet](projects/P2/README.md) |
 | **P3 – Requêtez une base de données avec SQL** | [Voir le projet](projects/P3/README.md) |
@@ -41,7 +41,7 @@ J’utilise Power BI, Qlik Sense et Python pour créer des dashboards clairs, ad
 - **Power BI** → [dashboards/powerbi](dashboards/powerbi)  
   *Suivi du budget, des ventes et des délais des projets.*
 
-  - **Python** → [dashboards/powerbi](dashboards/python)  
+- **Python** → [dashboards/powerbi](dashboards/python)  
   *Suivi du budget, des ventes et des délais des projets.*
 
 ---
