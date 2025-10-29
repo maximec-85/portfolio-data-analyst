@@ -1,6 +1,6 @@
 # 🎓 Portfolio – Data Analyst
 
-**Adélaïde – Data Analyst**  
+**Maxime – Data Analyst**  
 > “J’aide les entreprises à transformer leurs données en décisions claires et actionnables.”
 
 ---
