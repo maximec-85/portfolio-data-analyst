@@ -20,9 +20,19 @@ J’utilise Power BI, Qlik Sense et Python pour créer des dashboards clairs, ad
 
 | Projet | Description | Liens |
 |:--|:--|:--|
-| **P1 – Analyse des ventes d’une bijouterie** | Étude des ventes par jour et par article, création d’un tableau de bord Power BI. | [Voir le projet](projects/P1/README.md) |
-| **P2 – Diagnostic égalité professionnelle F/H** | Automatisation des rapports RH avec KNIME, visualisation des indicateurs d’égalité. | [Voir le projet](projects/P2/README.md) |
-| **P3 – Étude de marché internationale (La Poule qui Chante)** | Analyse de données FAO, ACP et clustering sur plus de 100 pays. | [Voir le projet](projects/P3/README.md) |
+| **P1 – Prenez en amin votre formation de Data Analyst** | [Voir le projet](projects/P1/README.md) |
+| **P2 – Faites une analyse de ventes pour un e-commerce** | [Voir le projet](projects/P2/README.md) |
+| **P3 – Requêtez une base de données avec SQL** | [Voir le projet](projects/P3/README.md) |
+| **P4 – Réalisez une étude de santé publique avec R ou Python** | [Voir le projet](projects/P4/README.md) |
+| **P5 – Créez et utilisez une base de données immobilière avec SQL** | [Voir le projet](projects/P5/README.md) |
+| **P6 – Optimisez la gestion des données d'une boutique avec R ou Python** | [Voir le projet](projects/P6/README.md) |
+| **P7 – Créez un tableau de bord dynamique avec Power BI pour visualiser l'avancement de projets** | [Voir le projet](projects/P7/README.md) |
+| **P8 – Analysez des indicateurs de l'égalité femmes/hommes en respect du RGPD** | [Voir le projet](projects/P8/README.md) |
+| **P9 – Analysez les ventes d'une librairie avec R ou Python** | [Voir le projet](projects/P9/README.md) |
+| **P10 – Faites une étude sur l'eau potable** | [Voir le projet](projects/P10/README.md) |
+| **P11 – Produisez une étude de marché avec R ou Python** | [Voir le projet](projects/P11/README.md) |
+| **P12 – Détectez des faux billets avec R ou Python** | [Voir le projet](projects/P12/README.md) |
+| **P13 – Créez votre portfolio de professionnel de la data** | [Voir le projet](projects/P13/README.md) |
 
 ---
 
@@ -30,8 +40,9 @@ J’utilise Power BI, Qlik Sense et Python pour créer des dashboards clairs, ad
 
 - **Power BI** → [dashboards/powerbi](dashboards/powerbi)  
   *Suivi du budget, des ventes et des délais des projets.*
-- **Qlik Sense** → [dashboards/qlik](dashboards/qlik)  
-  *Applications RH : suivi des contrats, visites médicales, alternants.*
+
+  - **Python** → [dashboards/powerbi](dashboards/python)  
+  *Suivi du budget, des ventes et des délais des projets.*
 
 ---
 
@@ -71,7 +82,7 @@ portfolio-data-analyst/
 ---
 
 ## 📬 Contact
-- ✉️ **Email** : [ton.email@exemple.com](mailto:ton.email@exemple.com)  
+- ✉️ **Email** : [maximecarrey@gmail.com](mailto:maximecarrey@gmail.com)  
 - 💼 **LinkedIn** : [ton-lien-linkedin](https://www.linkedin.com/in/tonprofil/)  
 - 🌐 **GitHub Pages** (site portfolio) : *(sera ajouté plus tard)*  
 
