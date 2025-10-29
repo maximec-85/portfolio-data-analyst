@@ -11,7 +11,7 @@ J’utilise Power BI, Qlik Sense et Python pour créer des dashboards clairs, ad
 
 **Compétences principales :**
 - Visualisation de données : Power BI, Qlik Sense, Excel  
-- Analyse et préparation de données : Python (pandas), SQL  
+- Analyse et préparation de données : Python, SQL  
 - Storytelling & data design : mise en forme, cohérence visuelle, communication claire  
 
 ---
