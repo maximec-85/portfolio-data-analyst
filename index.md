@@ -63,5 +63,6 @@ J’utilise Power BI, Qlik Sense et Python pour créer des dashboards clairs, ad
 ---
 
 ## 💼 Me contacter
-- ✉️ **Email** : [ton.email@exemple.com](mailto:ton.email@exemple.com)
+- ✉️ **Email** : [maximecarrey@gmail.com](mailto:maximecarrey@gmail.com)  
+- 💼 **LinkedIn** : [ton-lien-linkedin](https://www.linkedin.com/in/tonprofil/)  
 - 💻 **GitHub** : [github.com/maximec-85](https://gith)
