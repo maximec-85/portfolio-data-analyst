@@ -11,7 +11,7 @@ layout: default
 ---
 
 ## 🧭 À propos de moi
-Je suis Data Analyst, passionnée par la visualisation de données et l’automatisation des analyses.  
+Je suis Data Analyst, passionné par la visualisation de données et l’automatisation des analyses.  
 J’utilise Power BI, Qlik Sense et Python pour créer des dashboards clairs, adaptés aux besoins métiers, et raconter des histoires à partir des données.
 
 ---
@@ -78,4 +78,4 @@ J’utilise Power BI, Qlik Sense et Python pour créer des dashboards clairs, ad
 ## 💼 Me contacter
 - ✉️ **Email** : [maximecarrey@gmail.com](mailto:maximecarrey@gmail.com)  
 - 💼 **LinkedIn** : [ton-lien-linkedin](https://www.linkedin.com/in/tonprofil/)  
-- 💻 **GitHub** : [github.com/maximec-85](https://gith)
+- 💻 **GitHub** : [github.com/maximec-85](https://github.com/maximec-85)
