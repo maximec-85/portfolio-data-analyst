@@ -46,4 +46,4 @@ Elles illustrent mes compétences en **modélisation**, **analyse de performance
 
 ---
 
-⬅️ [Retour à l’accueil](../index.md)
+⬅️ [Retour à l’accueil](index.md)
