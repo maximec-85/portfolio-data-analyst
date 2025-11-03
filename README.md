@@ -32,7 +32,6 @@ J’utilise Power BI, Qlik Sense et Python pour créer des dashboards clairs, ad
 | **P10 – Faites une étude sur l'eau potable** | [Voir le projet](projects/P10/README.md) |
 | **P11 – Produisez une étude de marché avec R ou Python** | [Voir le projet](projects/P11/README.md) |
 | **P12 – Détectez des faux billets avec R ou Python** | [Voir le projet](projects/P12/README.md) |
-| **P13 – Créez votre portfolio de professionnel de la data** | [Voir le projet](projects/P13/README.md) |
 
 ---
 
