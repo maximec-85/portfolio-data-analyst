@@ -45,7 +45,8 @@ J’utilise Power BI, Qlik Sense et Python pour créer des dashboards clairs, ad
 ---
 
 ## 📈 Tableaux de bord
-- 💎 **Power BI** : [Suivi du chiffre d’affaires et des délais](dashboards/powerbi)  
+
+- 💎 [Voir mes visualisations Power BI](dashboards.md)
 
 ---
 
