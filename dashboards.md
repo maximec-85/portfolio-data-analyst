@@ -11,7 +11,7 @@ Elles illustrent mes compétences en **modélisation**, **analyse de performance
 ---
 
 ## 💎 1. Évolution du chiffre d’affaires cumulé mois par mois
-![Évolution du chiffre d’affaires cumulé](assets/images/dashboards/graph_CA_cumule.png)
+![Évolution du chiffre d’affaires cumulé](assets/images/dashboards/Graph_CA_cumul.png)
 
 > **Objectif :** suivre mois par mois l’évolution du **chiffre d’affaires cumulé** d’une boutique de bijoux.  
 > **Outil :** Power BI  
@@ -23,7 +23,7 @@ Elles illustrent mes compétences en **modélisation**, **analyse de performance
 ---
 
 ## 🧱 2. Suivi budgétaire des projets
-![Suivi des coûts réels vs prévisionnels](assets/images/dashboards/graph_suivi_projets.png)
+![Suivi des coûts réels vs prévisionnels](assets/images/dashboards/Graph_projets_barres.png)
 
 > **Objectif :** comparer les **coûts réels** et **coûts planifiés** des projets afin d’identifier les dépassements budgétaires.  
 > **Outil :** Power BI  
@@ -35,7 +35,7 @@ Elles illustrent mes compétences en **modélisation**, **analyse de performance
 ---
 
 ## 📈 3. Répartition du chiffre d’affaires par activité
-![Répartition du chiffre d’affaires par activité](assets/images/dashboards/graph_CA_activite.png)
+![Répartition du chiffre d’affaires par activité](assets/images/dashboards/Graph_barres_cumul.png.png)
 
 > **Objectif :** visualiser la **proportion de chiffre d’affaires** par type d’activité sur plusieurs années.  
 > **Outil :** Power BI  
