@@ -28,7 +28,7 @@ J’utilise Power BI, Qlik Sense et Python pour créer des dashboards clairs, ad
 
 | Projet | Description |
 |:--|:--|
-| **P1 – Prenez en amin votre formation de Data Analyst** | [Voir le projet](projects/P1/README.md) |
+| **P1 – Prenez en main votre formation de Data Analyst** | [Voir le projet](projects/P1/README.md) |
 | **P2 – Faites une analyse de ventes pour un e-commerce** | [Voir le projet](projects/P2/README.md) |
 | **P3 – Requêtez une base de données avec SQL** | [Voir le projet](projects/P3/README.md) |
 | **P4 – Réalisez une étude de santé publique avec R ou Python** | [Voir le projet](projects/P4/README.md) |
