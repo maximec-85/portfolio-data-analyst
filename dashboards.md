@@ -35,7 +35,7 @@ Elles illustrent mes compétences en **modélisation**, **analyse de performance
 ---
 
 ## 📈 3. Répartition du chiffre d’affaires par activité
-![Répartition du chiffre d’affaires par activité](assets/images/dashboards/Graph_barres_cumul.png.png)
+![Répartition du chiffre d’affaires par activité](assets/images/dashboards/Graph_barres_cumul.png)
 
 > **Objectif :** visualiser la **proportion de chiffre d’affaires** par type d’activité sur plusieurs années.  
 > **Outil :** Power BI  
