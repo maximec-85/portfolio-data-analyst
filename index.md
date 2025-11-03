@@ -56,8 +56,9 @@ J’utilise Power BI, Qlik Sense et Python pour créer des dashboards clairs, ad
 ---
 
 ## 📚 Ressources et documentation
-- 📄 [Cahier des charges du projet](assets/pdfs/Cahier_des_charges_portfolio.pdf)
-- 🧾 [Procédure de documentation visuelle](assets/pdfs/Procedure_creation_visualisation.pdf)
+- 📄 [Cahier des charges du projet](assets/pdfs/Cahier_des_charges_fonctionnels.pdf)
+-  📄 [Analyse des besoins pour Aeroworld](assets/pdfs/Analyse_des_besoins_Aeroworld.pdf)
+- 🧾 [Procédure de documentation visuelle](assets/pdfs/Procédure_documentation.pdf)
 - 📅 [Diagramme de Gantt du projet](assets/pdfs/Diagramme_Gantt_portfolio.pdf)
 
 ---
