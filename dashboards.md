@@ -1,50 +1,49 @@
 ---
-title: Exemples de tableaux de bord
+title: Exemples de visualisations Power BI
 layout: default
 ---
 
-# 📊 Exemples de tableaux de bord
+# 📊 Exemples de tableaux de bord Power BI
 
-Découvrez ci-dessous plusieurs dashboards que j’ai réalisés au cours de mes projets.  
-Chaque tableau de bord répond à un besoin métier spécifique et illustre mes compétences en **data visualisation** et en **storytelling décisionnel**.
+Cette section présente trois visualisations réalisées dans Power BI dans le cadre de mes projets de data visualisation.  
+Elles illustrent mes compétences en **modélisation**, **analyse de performance** et **construction de rapports clairs et interactifs**.
 
 ---
 
-## 💎 Suivi du chiffre d’affaires
-![Dashboard Power BI – Suivi du CA](assets/images/dashboards/dashboard_ventes.png)
+## 💎 1. Évolution du chiffre d’affaires cumulé mois par mois
+![Évolution du chiffre d’affaires cumulé](assets/images/dashboards/graph_CA_cumule.png)
+
+> **Objectif :** suivre mois par mois l’évolution du **chiffre d’affaires cumulé** d’une boutique de bijoux.  
 > **Outil :** Power BI  
-> **Objectif :** analyser le chiffre d’affaires par produit, région et canal de vente.  
-> **Points clés :** indicateurs dynamiques, filtres temporels, et comparatif annuel.
+> **Type de graphique :** courbe cumulative  
+> **Résultat :** permet d’identifier rapidement les tendances saisonnières et de comparer la progression de plusieurs années sur une même échelle.
 
-[🔗 Voir le projet complet](projects/P7/README.md)
+📂 **Contexte :** projet 7 – *Création d’un tableau de bord libre (option B)*.
 
 ---
 
-## 🧩 Suivi des deadlines de projets
-![Dashboard – Deadlines Gantt](assets/images/dashboards/dashboard_deadlines.png)
+## 🧱 2. Suivi budgétaire des projets
+![Suivi des coûts réels vs prévisionnels](assets/images/dashboards/graph_suivi_projets.png)
+
+> **Objectif :** comparer les **coûts réels** et **coûts planifiés** des projets afin d’identifier les dépassements budgétaires.  
 > **Outil :** Power BI  
-> **Objectif :** suivre les délais prévus vs réels à l’aide d’un diagramme de Gantt.  
-> **Points clés :** mesure DAX personnalisée, mise en forme conditionnelle, KPIs visuels.
+> **Type de graphique :** barres comparatives + ligne de suivi  
+> **Résultat :** met en évidence les projets à **surveiller** (écart > 15 %) et ceux **hors prévisionnel** (écart entre 0 % et 15 %).
 
-[📅 Diagramme Gantt interactif](index.md#-diagramme-de-gantt--version-interactive-power-bi)
-
----
-
-## 👥 Tableau de bord RH
-![Dashboard RH – Suivi des effectifs](assets/images/dashboards/dashboard_rh.png)
-> **Outil :** Qlik Sense  
-> **Objectif :** suivre les effectifs, alternants et visites médicales.  
-> **Points clés :** filtres dynamiques, KPI visuels, intégration d’icônes Vizlib.
+📂 **Contexte :** projet 7 – *Dashboard de suivi des projets et indicateurs de performance.*
 
 ---
 
-## 🏗️ Suivi global des projets
-![Dashboard projets](assets/images/dashboards/dashboard_projets.png)
+## 📈 3. Répartition du chiffre d’affaires par activité
+![Répartition du chiffre d’affaires par activité](assets/images/dashboards/graph_CA_activite.png)
+
+> **Objectif :** visualiser la **proportion de chiffre d’affaires** par type d’activité sur plusieurs années.  
 > **Outil :** Power BI  
-> **Objectif :** visualiser l’avancement des projets, le budget et les livrables.  
-> **Points clés :** hiérarchisation par phase, comparaison Planned vs Actual, alertes visuelles.
+> **Type de graphique :** barres empilées  
+> **Résultat :** permet de comparer la contribution des activités principales (ventes boutique, retours, réparations…) et d’observer l’évolution de leur poids dans le temps.
+
+📂 **Contexte :** projet 7 – *Analyse des ventes d’une bijouterie (option libre).*
 
 ---
 
-⬅️ [Retour à l’accueil](index.md)
-
+⬅️ [Retour à l’accueil](../index.md)
