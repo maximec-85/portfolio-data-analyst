@@ -55,11 +55,24 @@ J’utilise Power BI, Qlik Sense et Python pour créer des dashboards clairs, ad
 
 ---
 
+## 📅 Diagramme de Gantt – Version interactive Power BI
+
+<div style="border:1px solid #ddd; border-radius:8px; overflow:hidden; margin-top:10px;">
+  <iframe 
+    width="100%" 
+    height="600"
+    src="https://app.powerbi.com/view?r=eyJrIjoiOGJiMDk2YTItNGJlNC00Y2Y1LWE5M2UtYmUwMWFjMWZlOTA1IiwidCI6IjI3MGFjMzhiLTE3YTYtNDM4NS04NDgyLTBlZDUzOWE3ZjRhZSIsImMiOjl9" 
+    frameborder="0" 
+    allowFullScreen="true">
+  </iframe>
+</div>
+
+---
+
 ## 📚 Ressources et documentation
 - 📄 [Cahier des charges du projet](assets/pdfs/Cahier_des_charges_fonctionnels.pdf)
--  📄 [Analyse des besoins pour Aeroworld](assets/pdfs/Analyse_des_besoins_Aeroworld.pdf)
+- 📄 [Analyse des besoins pour Aeroworld](assets/pdfs/Analyse_des_besoins_Aeroworld.pdf)
 - 🧾 [Procédure de documentation visuelle](assets/pdfs/Procédure_documentation.pdf)
-- 📅 [Diagramme de Gantt du projet](assets/pdfs/Diagramme_Gantt_portfolio.pdf)
 
 ---
 
