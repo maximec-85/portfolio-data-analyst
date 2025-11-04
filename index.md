@@ -66,19 +66,6 @@ J’utilise Power BI, Qlik Sense et Python pour créer des dashboards clairs, ad
 
 ## 📈 Tableaux de bord
 
-- 💎 [Voir mes visualisations Power BI](dashboards.md)
-
-
----
-
-
-## 🧠 Carte mentale du portfolio
-
- [Ouvrir la carte mentale en plein écran](mindmap.html)
-
-
-## 📈 Tableaux de bord
-
 Des exemples réels de dashboards conçus pour **suivre la performance**, **détecter les dérives** et **aider à la décision** (CA, délais, livrables, RH).  
 Chaque visuel s’appuie sur un **modèle de données propre** et des **bonnes pratiques d’accessibilité** (contrastes, lisibilité, interactions).
 
@@ -148,27 +135,6 @@ Ces mock-ups ont permis de définir les **indicateurs clés**, l’**organisatio
 
 ---
 
-
-## 📅 Diagramme de Gantt – Version interactive Power BI
-
-<div style="border:1px solid #ddd; border-radius:8px; overflow:hidden; margin-top:10px;">
-  <iframe 
-    width="100%" 
-    height="600"
-    src="https://app.powerbi.com/view?r=eyJrIjoiOGJiMDk2YTItNGJlNC00Y2Y1LWE5M2UtYmUwMWFjMWZlOTA1IiwidCI6IjI3MGFjMzhiLTE3YTYtNDM4NS04NDgyLTBlZDUzOWE3ZjRhZSIsImMiOjl9" 
-    frameborder="0" 
-    allowFullScreen="true">
-  </iframe>
-</div>
-
----
-
-## 📚 Ressources et documentation
-- 📄 [Cahier des charges du projet](assets/pdfs/Cahier_des_charges_fonctionnels.pdf)
-- 📄 [Analyse des besoins pour Aeroworld](assets/pdfs/analyse_des_besoins_aeroworld.pdf)
-- 🧾 [Procédure de documentation visuelle](assets/pdfs/procedure_documentation.pdf)
-
----
 
 ## 💼 Me contacter
 - ✉️ **Email** : [maximecarrey@gmail.com](mailto:maximecarrey@gmail.com)  
