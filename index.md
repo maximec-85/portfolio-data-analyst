@@ -3,6 +3,20 @@ title: Portfolio Data Analyst – Maxime
 layout: default
 ---
 
+<style>
+  /* Typo + rythme */
+  h1,h2,h3 { letter-spacing:.2px }
+  p { line-height:1.6 }
+  /* Cartes */
+  .card { border:1px solid #e5e7eb; border-radius:12px; padding:14px; background:#fafafa; }
+  .btn { display:inline-block; padding:10px 14px; border:1px solid #e5e7eb; border-radius:10px; text-decoration:none }
+  /* Grille responsive simple */
+  .grid { display:grid; gap:12px; grid-template-columns: repeat(auto-fit, minmax(240px,1fr)); }
+  /* Encadré section */
+  .section { padding:12px 14px; border-left:4px solid #8b5cf6; background:#fbfaff; border-radius:8px; }
+</style>
+
+
 # 👋 Bonjour, je suis Maxime
 ### Data Analyst en formation chez OpenClassrooms
 
@@ -63,7 +77,64 @@ J’utilise Power BI, Qlik Sense et Python pour créer des dashboards clairs, ad
  [Ouvrir la carte mentale en plein écran](mindmap.html)
 
 
+## 📈 Tableaux de bord
+
+Des exemples réels de dashboards conçus pour **suivre la performance**, **détecter les dérives** et **aider à la décision** (CA, délais, livrables, RH).  
+Chaque visuel s’appuie sur un **modèle de données propre** et des **bonnes pratiques d’accessibilité** (contrastes, lisibilité, interactions).
+
+<div style="display:flex; gap:12px; flex-wrap:wrap; margin:10px 0;">
+  <a href="dashboards.md" style="flex:1; min-width:230px; text-decoration:none; border:1px solid #e5e7eb; border-radius:10px; padding:12px;">
+    <div style="font-weight:600; margin-bottom:6px;">💎 Galerie Power BI</div>
+    <div style="font-size:0.95rem; color:#475569;">Trois visuels commentés (CA cumulé, suivi projets, répartition par activité).</div>
+  </a>
+  <a href="mockups.md" style="flex:1; min-width:230px; text-decoration:none; border:1px solid #e5e7eb; border-radius:10px; padding:12px;">
+    <div style="font-weight:600; margin-bottom:6px;">🎨 Mock-ups Aéroworld</div>
+    <div style="font-size:0.95rem; color:#475569;">Maquettes Canva pour cadrer UX/UI avant développement.</div>
+  </a>
+</div>
+
+
 ---
+
+## 🧠 Carte mentale du portfolio
+
+Vue d’ensemble du **périmètre**, des **livrables** et de la **roadmap** du portfolio.  
+Idéal pour comprendre en 30 secondes les **priorités**, les **axes d’amélioration** et la **structure** de mes projets.
+
+<p style="margin:10px 0;">
+  <a href="mindmap.html" style="display:inline-block; padding:10px 14px; border:1px solid #e5e7eb; border-radius:10px; text-decoration:none;">
+    Ouvrir la carte mentale en plein écran →
+  </a>
+</p>
+
+## 📅 Diagramme de Gantt – Version interactive Power BI
+
+<div class="card" style="overflow:hidden;">
+  <div style="position:relative; padding-bottom:64%; height:0; margin:0 -14px -14px -14px;">
+    <iframe 
+      src="https://app.powerbi.com/view?r=eyJrIjoiOGJiMDk2YTItNGJlNC00Y2Y1LWE5M2UtYmUwMWFjMWZlOTA1IiwidCI6IjI3MGFjMzhiLTE3YTYtNDM4NS04NDgyLTBlZDUzOWE3ZjRhZSIsImMiOjl9" 
+      style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;" allowfullscreen>
+    </iframe>
+  </div>
+</div>
+
+## 📚 Ressources et documentation
+
+<div class="grid">
+  <a class="card" href="assets/pdfs/Cahier_des_charges_fonctionnels.pdf">
+    <strong>📄 Cahier des charges</strong>
+    <div style="color:#475569; font-size:.95rem;">Périmètre, KPIs, exigences et contraintes.</div>
+  </a>
+  <a class="card" href="assets/pdfs/analyse_des_besoins_aeroworld.pdf">
+    <strong>📄 Analyse des besoins – Aéroworld</strong>
+    <div style="color:#475569; font-size:.95rem;">User stories, objectifs métiers, priorisation.</div>
+  </a>
+  <a class="card" href="assets/pdfs/procedure_documentation.pdf">
+    <strong>🧾 Procédure de documentation</strong>
+    <div style="color:#475569; font-size:.95rem;">Méthode, bonnes pratiques, checklist.</div>
+  </a>
+</div>
+
 
 
 ## 🎨 Mock-ups de tableaux de bord – Aéroworld
