@@ -8,13 +8,17 @@ layout: default
 
 > “J’aide les entreprises à comprendre et exploiter leurs données grâce à des visualisations claires et des analyses actionnables.”
 
+
 ---
+
 
 ## 🧭 À propos de moi
 Je suis Data Analyst, passionné par la visualisation de données et l’automatisation des analyses.  
 J’utilise Power BI, Qlik Sense et Python pour créer des dashboards clairs, adaptés aux besoins métiers, et raconter des histoires à partir des données.
 
+
 ---
+
 
 ## 📊 Mes domaines d’expertise
 - Visualisation et storytelling (Power BI, Qlik Sense)
@@ -22,7 +26,9 @@ J’utilise Power BI, Qlik Sense et Python pour créer des dashboards clairs, ad
 - Gestion de projet et documentation technique
 - Veille technologique et bonnes pratiques BI
 
+
 ---
+
 
 ## 🚀 Projets OpenClassrooms
 
@@ -40,21 +46,25 @@ J’utilise Power BI, Qlik Sense et Python pour créer des dashboards clairs, ad
 | **P11 – Produisez une étude de marché avec R ou Python** | [Voir le projet](projects/P11/) |
 | **P12 – Détectez des faux billets avec R ou Python** | [Voir le projet](projects/P12/) |
 
+
 ---
+
 
 ## 📈 Tableaux de bord
 
 - 💎 [Voir mes visualisations Power BI](dashboards.md)
 
+
 ---
+
 
 ## 🧠 Carte mentale du portfolio
 
  [Ouvrir la carte mentale en plein écran](mindmap.html)
 
----
 
 ---
+
 
 ## 🎨 Mock-ups de tableaux de bord – Aéroworld
 
@@ -63,6 +73,7 @@ Dans le cadre du projet Aéroworld, j’ai conçu deux maquettes de tableaux de 
 Ces mock-ups ont permis de définir les **indicateurs clés**, l’**organisation des pages**, et les **éléments de storytelling** nécessaires à la compréhension des utilisateurs.
 
 - 🎨 [Voir les mock-ups Aéroworld](mockups.md)
+
 
 ---
 
