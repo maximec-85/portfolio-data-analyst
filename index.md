@@ -17,7 +17,7 @@ layout: default
 </style>
 
 
-# 👋 Bonjour, je suis Maxime cc
+# 👋 Bonjour, je suis Maxime aa
 ### Data Analyst en formation chez OpenClassrooms
 
 > “J’aide les entreprises à comprendre et exploiter leurs données grâce à des visualisations claires et des analyses actionnables.”
@@ -41,24 +41,30 @@ J’utilise Power BI, Qlik Sense et Python pour créer des dashboards clairs, ad
 - Veille technologique et bonnes pratiques BI
 
 
----
 
 ## 🚀 Projets OpenClassrooms
 
-Cliquez sur le bouton pour découvrir les projets :
+Cliquez pour découvrir les projets réalisés dans le cadre de ma formation 👇
 
-<button onclick="var x=document.getElementById('projets');x.style.display=(x.style.display=='none')?'block':'none';" style="padding:10px 14px;border:1px solid #ccc;border-radius:8px;cursor:pointer;">🗂️ Découvrir les projets</button>
+<details style="border:1px solid #e5e7eb; border-radius:8px; padding:10px; background:#fafafa;">
+  <summary style="font-size:1.05rem; font-weight:600; cursor:pointer;">📁 Découvrir la liste complète des projets</summary>
 
-<div id="projets" style="display:none; margin-top:10px;">
+  <br>
+
   | Projet | Description |
   |:--|:--|
   | **P1 – Prenez en main votre formation de Data Analyst** | [Voir le projet](projects/P1/) |
   | **P2 – Faites une analyse de ventes pour un e-commerce** | [Voir le projet](projects/P2/) |
-  | ... |
-</div>
+  | **P3 – Requêtez une base de données avec SQL** | [Voir le projet](projects/P3/) |
+  | **P4 – Réalisez une étude de santé publique avec R ou Python** | [Voir le projet](projects/P4/) |
+  | **P5 – Créez et utilisez une base de données immobilière avec SQL** | [Voir le projet](projects/P5/) |
+  | **P6 – Optimisez la gestion des données d'une boutique** | [Voir le projet](projects/P6/) |
+  | **P7 – Tableau de bord Power BI (projets)** | [Voir le projet](projects/P7/) |
+  | **P9 – Analyse des ventes d'une librairie** | [Voir le projet](projects/P9/) |
+  | **P11 – Étude de marché avec ACP & clustering** | [Voir le projet](projects/P11/) |
+  | **P12 – Détection de faux billets (ML)** | [Voir le projet](projects/P12/) |
 
-
----
+</details>
 
 
 ## 📈 Tableaux de bord
