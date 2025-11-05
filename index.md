@@ -17,7 +17,7 @@ layout: default
 </style>
 
 
-# 👋 Bonjour, je suis Maxime
+# 👋 Bonjour, je suis Maxime zz
 ### Data Analyst en formation chez OpenClassrooms
 
 > “J’aide les entreprises à comprendre et exploiter leurs données grâce à des visualisations claires et des analyses actionnables.”
