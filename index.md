@@ -14,26 +14,6 @@ L’objectif : **concevoir un portfolio professionnel** regroupant mes réalisat
 
 ---
 
-### 📦 Livrables attendus du projet
-
-L’ensemble des livrables a été produit dans un ordre logique, reflétant la progression du projet :
-
-1. 📑 **Livrables prioritaires** :
-   - Analyse des besoins du client (Aéroworld)  
-   - Cahier des charges fonctionnel  
-   - Procédure de documentation visuelle
-2. 🧠 **Carte mentale** – pour organiser les idées, définir la structure du projet et visualiser les relations entre les livrables.  
-3. 📅 **Diagramme de Gantt** – pour planifier et suivre les différentes étapes de production.  
-4. 🎨 **Mock-ups Canva** – conception visuelle de deux tableaux de bord :
-   - un pour la veille métier,  
-   - un pour la présentation personnelle.  
-5. 🎬 **Vidéo de formation (Loom)** – une capsule de 12 minutes présentant la création d’une visualisation Power BI et la démarche méthodologique associée.  
-6. 🌐 **Portfolio GitHub Pages** – synthèse finale du projet, rassemblant l’ensemble des livrables, démontrant la démarche suivie et valorisant mes compétences de Data Analyst consultant.
-
-🎯 L’objectif final est de concevoir un **portfolio clair, structuré et professionnel**, faisant office à la fois de **vitrine de compétences** et de **support de présentation pour la soutenance**.
-
----
-
 ## 👤 Présentation de mon profil
 
 Je suis **Maxime**, Data Analyst passionné par la **visualisation de données**, la **gestion de projets BI** et la **transmission de savoirs**.  
@@ -95,13 +75,6 @@ Tout au long du projet, j’ai veillé à garder une **communication claire et p
 
 ---
 
-### 📅 Diagramme de Gantt – Planification du projet
-*(Intégré Power BI ou image statique)*
-
-<div style="border:1px solid #e5e7eb; border-radius:8px; overflow:hidden; margin-top:10px;">
-  <iframe width="100%" height="400" src="https://app.powerbi.com/view?r=eyJrIjoiOGJiMDk2YTItNGJlNC00Y2Y1LWE5M2UtYmUwMWFjMWZlOTA1IiwidCI6IjI3MGFjMzhiLTE3YTYtNDM4NS04NDgyLTBlZDUzOWE3ZjRhZSIsImMiOjl9" frameborder="0" allowFullScreen="true"></iframe>
-</div>
-
 ## 💡 Résultats et livrables
 
 ---
@@ -112,6 +85,13 @@ Représentation visuelle de la structure du portfolio, des livrables et de la m�
 [Ouvrir la carte mentale en plein écran](mindmap.html)
 
 ---
+
+### 📅 Diagramme de Gantt – Planification du projet
+*(Intégré Power BI ou image statique)*
+
+<div style="border:1px solid #e5e7eb; border-radius:8px; overflow:hidden; margin-top:10px;">
+  <iframe width="100%" height="400" src="https://app.powerbi.com/view?r=eyJrIjoiOGJiMDk2YTItNGJlNC00Y2Y1LWE5M2UtYmUwMWFjMWZlOTA1IiwidCI6IjI3MGFjMzhiLTE3YTYtNDM4NS04NDgyLTBlZDUzOWE3ZjRhZSIsImMiOjl9" frameborder="0" allowFullScreen="true"></iframe>
+</div>
 
 ### 🎨 Mock-ups de tableaux de bord
 Deux maquettes Canva réalisées pour Aéroworld :
@@ -130,25 +110,54 @@ Exemples de dashboards interactifs issus de projets réels :
 [Voir les visualisations Power BI](dashboards.html)
 
 
-## 🧱 Difficultés rencontrées
+## ⚙️ Difficultés rencontrées et solutions
 
-- **Intégration GitHub Pages** :  
-  difficulté initiale à rendre les liens et iframes fonctionnels → solution : uniformisation des chemins et extensions `.html`.
-
-- **Lisibilité et UI du portfolio** :  
-  interface trop brute au départ → ajout de sections, cartes et blocs visuels avec CSS léger intégré.
-
-- **Compatibilité des vidéos (Loom)** :  
-  certaines restrictions d’intégration → ajout d’un lien alternatif pour lecture externe.
+Comme tout projet, celui-ci a présenté plusieurs défis que j’ai su transformer en leviers d’apprentissage.
 
 ---
 
-### 💪 Compétences mobilisées
-- Analyse des besoins et gestion de projet  
-- Visualisation de données (Power BI, Qlik Sense)  
-- Documentation technique claire  
-- Communication et posture consultant
+### 1️⃣ Structuration du projet  
+Au départ, la quantité d’informations et de livrables à produire rendait la progression complexe.  
+J’ai surmonté cette difficulté en **structurant le projet étape par étape** et en créant un **diagramme de Gantt** pour planifier les priorités et garder une vision d’ensemble.
 
+---
+
+### 2️⃣ Intégration technique  
+Rassembler tous les livrables dans un **portfolio clair et interactif** n’a pas été simple.  
+J’ai résolu ce défi en utilisant **GitHub Pages**, en adoptant une structure dynamique et des **liens interactifs** pour faciliter la navigation entre les sections.
+
+---
+
+### 3️⃣ Clarté pédagogique  
+Il fallait trouver le bon équilibre entre **rigueur technique** et **accessibilité pour un public non technique**.  
+J’ai choisi d’utiliser des **visuels, schémas et infographies** pour rendre la démarche data plus compréhensible.
+
+---
+
+### 4️⃣ Posture de consultant  
+Enfin, j’ai travaillé ma **communication orale et écrite** pour adopter une posture claire, structurée et professionnelle, en présentant mes livrables comme un **consultant data**.
+
+---
+
+### 📦 Livrables attendus du projet
+
+L’ensemble des livrables a été produit dans un ordre logique, reflétant la progression du projet :
+
+1. 📑 **Livrables prioritaires** :
+   - Analyse des besoins du client (Aéroworld)  
+   - Cahier des charges fonctionnel  
+   - Procédure de documentation visuelle
+2. 🧠 **Carte mentale** – pour organiser les idées, définir la structure du projet et visualiser les relations entre les livrables.  
+3. 📅 **Diagramme de Gantt** – pour planifier et suivre les différentes étapes de production.  
+4. 🎨 **Mock-ups Canva** – conception visuelle de deux tableaux de bord :
+   - un pour la veille métier,  
+   - un pour la présentation personnelle.  
+5. 🎬 **Vidéo de formation (Loom)** – une capsule de 12 minutes présentant la création d’une visualisation Power BI et la démarche méthodologique associée.  
+6. 🌐 **Portfolio GitHub Pages** – synthèse finale du projet, rassemblant l’ensemble des livrables, démontrant la démarche suivie et valorisant mes compétences de Data Analyst consultant.
+
+🎯 L’objectif final est de concevoir un **portfolio clair, structuré et professionnel**, faisant office à la fois de **vitrine de compétences** et de **support de présentation pour la soutenance**.
+
+---
 
 ## 🎯 Conclusion
 
