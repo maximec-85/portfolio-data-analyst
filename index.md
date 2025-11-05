@@ -7,17 +7,32 @@ L’objectif : **concevoir un portfolio professionnel** regroupant mes réalisat
 
 ## 🧾 Les demandes du client – Aéroworld
 
-Aéroworld souhaite :
-- Disposer d’un **portfolio clair et documenté** pour présenter mes compétences à des recruteurs ou clients.
-- Centraliser les livrables : **mock-ups, diagramme de Gantt, procédures et carte mentale**.
-- Illustrer mes **compétences techniques (Power BI, Qlik, Python, SQL)** et ma **posture de consultant data**.
+- 🔍 **Une veille métier et technologique** afin d’identifier les tendances, outils et bonnes pratiques du domaine de la data.  
+- 📄 **La formalisation d’un cahier des charges fonctionnel**, clair et structuré, servant de base à la conception du portfolio.  
+- 📅 **Une organisation de projet rigoureuse**, notamment via un **diagramme de Gantt** détaillant les étapes clés et le calendrier de production.  
+- 🎓 **La création de livrables pédagogiques et documentés**, permettant de démontrer mes compétences techniques et méthodologiques à travers un portfolio professionnel.
 
-Les livrables attendus :
-1. Une **carte mentale** illustrant la structure du projet.  
-2. Des **mock-ups** de tableaux de bord (veille métier & présentation personnelle).  
-3. Un **diagramme de Gantt** pour la planification.  
-4. Une **procédure de documentation** claire et visuelle.
+---
 
+### 📦 Livrables attendus du projet
+
+L’ensemble des livrables a été produit dans un ordre logique, reflétant la progression du projet :
+
+1. 📑 **Livrables prioritaires** :
+   - Analyse des besoins du client (Aéroworld)  
+   - Cahier des charges fonctionnel  
+   - Procédure de documentation visuelle
+2. 🧠 **Carte mentale** – pour organiser les idées, définir la structure du projet et visualiser les relations entre les livrables.  
+3. 📅 **Diagramme de Gantt** – pour planifier et suivre les différentes étapes de production.  
+4. 🎨 **Mock-ups Canva** – conception visuelle de deux tableaux de bord :
+   - un pour la veille métier,  
+   - un pour la présentation personnelle.  
+5. 🎬 **Vidéo de formation (Loom)** – une capsule de 12 minutes présentant la création d’une visualisation Power BI et la démarche méthodologique associée.  
+6. 🌐 **Portfolio GitHub Pages** – synthèse finale du projet, rassemblant l’ensemble des livrables, démontrant la démarche suivie et valorisant mes compétences de Data Analyst consultant.
+
+🎯 L’objectif final était de concevoir un **portfolio clair, structuré et professionnel**, faisant office à la fois de **vitrine de compétences** et de **support de présentation pour la soutenance**.
+
+---
 
 ## 👤 Présentation de mon profil
 
