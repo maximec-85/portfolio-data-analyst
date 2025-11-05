@@ -36,7 +36,7 @@ J’utilise Power BI, Qlik Sense et Python pour transformer les données en **d�
 
 ### 🎥 Capsule vidéo de formation
 <div style="border:1px solid #e5e7eb; border-radius:10px; background:#fafafa; padding:12px;">
-  <iframe src="https://www.loom.com/embed/TON_ID_DE_VIDEO" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="width:100%; height:400px; border-radius:8px;"></iframe>
+  <iframe src="https://www.loom.com/embed/8f6bea2af6914013b702c11f398c1268" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="width:100%; height:400px; border-radius:8px;"></iframe>
 </div>
 > Dans cette vidéo de 12 minutes, je présente ma démarche de création de visualisations Power BI, de la préparation des données à la mise en forme finale.
 
@@ -69,7 +69,7 @@ La conception du portfolio a suivi une **démarche de projet en 4 étapes** :
 *(Intégré Power BI ou image statique)*
 
 <div style="border:1px solid #e5e7eb; border-radius:8px; overflow:hidden; margin-top:10px;">
-  <iframe width="100%" height="400" src="https://app.powerbi.com/view?r=TON_URL_GANTT" frameborder="0" allowFullScreen="true"></iframe>
+  <iframe width="100%" height="400" src="https://app.powerbi.com/view?r=eyJrIjoiOGJiMDk2YTItNGJlNC00Y2Y1LWE5M2UtYmUwMWFjMWZlOTA1IiwidCI6IjI3MGFjMzhiLTE3YTYtNDM4NS04NDgyLTBlZDUzOWE3ZjRhZSIsImMiOjl9" frameborder="0" allowFullScreen="true"></iframe>
 </div>
 
 ## 💡 Résultats et livrables
@@ -78,6 +78,7 @@ La conception du portfolio a suivi une **démarche de projet en 4 étapes** :
 
 ### 🧠 Carte mentale du projet
 Représentation visuelle de la structure du portfolio, des livrables et de la méthodologie.
+
 [Ouvrir la carte mentale en plein écran](mindmap.html)
 
 ---
@@ -86,6 +87,7 @@ Représentation visuelle de la structure du portfolio, des livrables et de la m�
 Deux maquettes Canva réalisées pour Aéroworld :
 - **Veille métier** : suivi des outils et tendances du secteur Data.
 - **Présentation personnelle** : valorisation de mes compétences via un dashboard visuel.
+  
 [Voir les mock-ups Aéroworld](mockups.html)
 
 ---
