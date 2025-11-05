@@ -17,7 +17,7 @@ layout: default
 </style>
 
 
-# 👋 Bonjour, je suis Maxime aa
+# 👋 Bonjour, je suis Maxime aaa
 ### Data Analyst en formation chez OpenClassrooms
 
 > “J’aide les entreprises à comprendre et exploiter leurs données grâce à des visualisations claires et des analyses actionnables.”
@@ -133,7 +133,7 @@ J’ai enregistré une **vidéo de 12 minutes** présentant la création d’une
 Cette vidéo illustre ma démarche de **data storytelling** et mes compétences en **vulgarisation technique**.
 
 <div style="border:1px solid #e5e7eb; border-radius:10px; background:#fafafa; padding:12px; margin-top:10px;">
-  <iframe src="https://www.loom.com/share/8f6bea2af6914013b702c11f398c1268"
+  <iframe src="https://www.loom.com/embed/8f6bea2af6914013b702c11f398c1268"
           frameborder="0"
           webkitallowfullscreen
           mozallowfullscreen
