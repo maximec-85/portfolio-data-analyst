@@ -80,7 +80,6 @@ Chaque visuel s’appuie sur un **modèle de données propre** et des **bonnes p
   </a>
 </div>
 
-
 ---
 
 ## 🧠 Carte mentale du portfolio
@@ -121,17 +120,6 @@ Idéal pour comprendre en 30 secondes les **priorités**, les **axes d’amélio
     <div style="color:#475569; font-size:.95rem;">Méthode, bonnes pratiques, checklist.</div>
   </a>
 </div>
-
-
-
-## 🎨 Mock-ups de tableaux de bord – Aéroworld
-
-Dans le cadre du projet Aéroworld, j’ai conçu deux maquettes de tableaux de bord sur **Canva** afin d’illustrer la structure et la logique visuelle avant le développement dans Power BI.
-
-Ces mock-ups ont permis de définir les **indicateurs clés**, l’**organisation des pages**, et les **éléments de storytelling** nécessaires à la compréhension des utilisateurs.
-
-- 🎨 [Voir les mock-ups Aéroworld](mockups.md)
-
 
 ---
 
