@@ -43,23 +43,30 @@ J’utilise Power BI, Qlik Sense et Python pour créer des dashboards clairs, ad
 
 ---
 
-
 ## 🚀 Projets OpenClassrooms
 
-| Projet | Description |
-|:--|:--|
-| **P1 – Prenez en main votre formation de Data Analyst** | [Voir le projet](projects/P1/) |
-| **P2 – Faites une analyse de ventes pour un e-commerce** | [Voir le projet](projects/P2/) |
-| **P3 – Requêtez une base de données avec SQL** | [Voir le projet](projects/P3/) |
-| **P4 – Réalisez une étude de santé publique avec R ou Python** | [Voir le projet](projects/P4/) |
-| **P5 – Créez et utilisez une base de données immobilière avec SQL** | [Voir le projet](projects/P5/) |
-| **P6 – Optimisez la gestion des données d'une boutique avec R ou Python** | [Voir le projet](projects/P6/) |
-| **P7 – Créez un tableau de bord dynamique avec Power BI pour visualiser l'avancement de projets** | [Voir le projet](projects/P7/) |
-| **P9 – Analysez les ventes d'une librairie avec R ou Python** | [Voir le projet](projects/P9/) |
-| **P10 – Faites une étude sur l'eau potable** | [Voir le projet](projects/P10/) |
-| **P11 – Produisez une étude de marché avec R ou Python** | [Voir le projet](projects/P11/) |
-| **P12 – Détectez des faux billets avec R ou Python** | [Voir le projet](projects/P12/) |
+Cliquez pour découvrir les projets réalisés dans le cadre de ma formation de **Data Analyst** 👇
 
+<details>
+  <summary style="font-size:1.1rem; font-weight:600; cursor:pointer;">🗂️ Découvrir la liste complète des projets</summary>
+
+  <br>
+
+  | Projet | Description |
+  |:--|:--|
+  | **P1 – Prenez en main votre formation de Data Analyst** | [Voir le projet](projects/P1/) |
+  | **P2 – Faites une analyse de ventes pour un e-commerce** | [Voir le projet](projects/P2/) |
+  | **P3 – Requêtez une base de données avec SQL** | [Voir le projet](projects/P3/) |
+  | **P4 – Réalisez une étude de santé publique avec R ou Python** | [Voir le projet](projects/P4/) |
+  | **P5 – Créez et utilisez une base de données immobilière avec SQL** | [Voir le projet](projects/P5/) |
+  | **P6 – Optimisez la gestion des données d'une boutique avec R ou Python** | [Voir le projet](projects/P6/) |
+  | **P7 – Créez un tableau de bord dynamique avec Power BI pour visualiser l'avancement de projets** | [Voir le projet](projects/P7/) |
+  | **P9 – Analysez les ventes d'une librairie avec R ou Python** | [Voir le projet](projects/P9/) |
+  | **P10 – Faites une étude sur l'eau potable** | [Voir le projet](projects/P10/) |
+  | **P11 – Produisez une étude de marché avec R ou Python** | [Voir le projet](projects/P11/) |
+  | **P12 – Détectez des faux billets avec R ou Python** | [Voir le projet](projects/P12/) |
+
+</details>
 
 ---
 
