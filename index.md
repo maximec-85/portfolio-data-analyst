@@ -17,7 +17,7 @@ layout: default
 </style>
 
 
-# 👋 Bonjour, je suis Maxime aaa
+# 👋 Bonjour, je suis Maxime
 ### Data Analyst en formation chez OpenClassrooms
 
 > “J’aide les entreprises à comprendre et exploiter leurs données grâce à des visualisations claires et des analyses actionnables.”
@@ -129,7 +129,7 @@ Idéal pour comprendre en 30 secondes les **priorités**, les **axes d’amélio
 
 ## 🎬 Vidéo de formation – Création de visualisations Power BI
 
-J’ai enregistré une **vidéo de 12 minutes** présentant la création d’une visualisation Power BI, de la préparation des données à la mise en forme finale.  
+J’ai enregistré une **vidéo de 14 minutes** présentant la création d’une visualisation Power BI, de la préparation des données à la mise en forme finale.  
 Cette vidéo illustre ma démarche de **data storytelling** et mes compétences en **vulgarisation technique**.
 
 <div style="border:1px solid #e5e7eb; border-radius:10px; background:#fafafa; padding:12px; margin-top:10px;">
@@ -146,5 +146,5 @@ Cette vidéo illustre ma démarche de **data storytelling** et mes compétences 
 
 ## 💼 Me contacter
 - ✉️ **Email** : [maximecarrey@gmail.com](mailto:maximecarrey@gmail.com)  
-- 💼 **LinkedIn** : [ton-lien-linkedin](https://www.linkedin.com/in/tonprofil/)  
+- 💼 **LinkedIn** : [ton-lien-linkedin](https://www.linkedin.com/in/maxime-carrey/)  
 - 💻 **GitHub** : [github.com/maximec-85](https://github.com/maximec-85)
