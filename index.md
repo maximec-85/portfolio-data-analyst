@@ -100,15 +100,6 @@ Deux maquettes Canva réalisées pour Aéroworld :
   
 [Voir les mock-ups Aéroworld](mockups.html)
 
----
-
-### 📊 Visualisations Power BI
-Exemples de dashboards interactifs issus de projets réels :
-- Suivi budgétaire et coûts réels des projets  
-- Chiffre d’affaires cumulé par année  
-- Répartition du CA par activité  
-[Voir les visualisations Power BI](dashboards.html)
-
 
 ## ⚙️ Difficultés rencontrées et solutions
 
