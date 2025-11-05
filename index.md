@@ -30,7 +30,7 @@ L’ensemble des livrables a été produit dans un ordre logique, reflétant la 
 5. 🎬 **Vidéo de formation (Loom)** – une capsule de 12 minutes présentant la création d’une visualisation Power BI et la démarche méthodologique associée.  
 6. 🌐 **Portfolio GitHub Pages** – synthèse finale du projet, rassemblant l’ensemble des livrables, démontrant la démarche suivie et valorisant mes compétences de Data Analyst consultant.
 
-🎯 L’objectif final était de concevoir un **portfolio clair, structuré et professionnel**, faisant office à la fois de **vitrine de compétences** et de **support de présentation pour la soutenance**.
+🎯 L’objectif final est de concevoir un **portfolio clair, structuré et professionnel**, faisant office à la fois de **vitrine de compétences** et de **support de présentation pour la soutenance**.
 
 ---
 
@@ -53,30 +53,45 @@ J’utilise Power BI, Qlik Sense et Python pour transformer les données en **d�
 <div style="border:1px solid #e5e7eb; border-radius:10px; background:#fafafa; padding:12px;">
   <iframe src="https://www.loom.com/embed/8f6bea2af6914013b702c11f398c1268" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="width:100%; height:400px; border-radius:8px;"></iframe>
 </div>
-> Dans cette vidéo de 12 minutes, je présente ma démarche de création de visualisations Power BI, de la préparation des données à la mise en forme finale.
+> Dans cette vidéo de 14 minutes, je présente ma démarche de création de visualisations Power BI, de la préparation des données à la mise en forme finale.
 
+---
 
-## ⚙️ Méthodologie suivie
+## 🧭 Méthodologie suivie
 
-La conception du portfolio a suivi une **démarche de projet en 4 étapes** :
+J’ai structuré ce projet selon une démarche rigoureuse en cinq grandes étapes.
 
-1. **Analyse du besoin client (Aéroworld)**  
-   - Étude du cahier des charges.  
-   - Identification des livrables et contraintes (temps, outils, structure GitHub).
+---
 
-2. **Conception et planification**  
-   - Création d’un **diagramme de Gantt** pour organiser le projet.  
-   - Réalisation de **mock-ups Canva** pour valider l’UX/UI des tableaux de bord.
+### 1️⃣ Analyse du besoin
+J’ai commencé par étudier le **cahier des charges d’Aéroworld** afin d’identifier les enjeux :  
+**sécuriser, harmoniser et valoriser les données**.  
+Les objectifs ont ensuite été traduits en **indicateurs concrets** : coûts, délais, qualité et efficacité.
 
-3. **Production et intégration**  
-   - Développement du site GitHub Pages.  
-   - Intégration des livrables (PDF, images, Power BI, Loom).  
-   - Structuration du code Markdown et du rendu visuel.
+---
 
-4. **Documentation et communication**  
-   - Rédaction d’une **procédure claire et visuelle**.  
-   - Création d’une **carte mentale** pour illustrer la démarche.  
-   - Structuration de la soutenance (présentation orale + posture consultant).
+### 2️⃣ Planification
+J’ai conçu un **diagramme de Gantt sous Power BI** pour planifier la veille, la conception, la documentation et la présentation.  
+Cela m’a permis de visualiser l’avancement global et de gérer les priorités comme un chef de projet data.
+
+---
+
+### 3️⃣ Veille et choix d’outils
+J’ai comparé différents outils de visualisation — notamment **Tableau** et **Power BI** — afin de retenir la solution la plus **performante, ergonomique et accessible**.
+
+---
+
+### 4️⃣ Réalisation des livrables
+J’ai produit les livrables clés du projet :
+- un **cahier des charges fonctionnel**,  
+- une **procédure de documentation visuelle**,  
+- une **vidéo de formation Loom**,  
+- et le **portfolio interactif GitHub Pages** centralisant l’ensemble.
+
+---
+
+### 5️⃣ Posture de consultant
+Tout au long du projet, j’ai veillé à garder une **communication claire et pédagogique**, en reliant systématiquement les **indicateurs techniques aux besoins métiers**.
 
 ---
 
