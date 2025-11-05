@@ -17,7 +17,7 @@ layout: default
 </style>
 
 
-# 👋 Bonjour, je suis Maxime aa
+# 👋 Bonjour, je suis Maxime aaa
 ### Data Analyst en formation chez OpenClassrooms
 
 > “J’aide les entreprises à comprendre et exploiter leurs données grâce à des visualisations claires et des analyses actionnables.”
@@ -46,7 +46,7 @@ J’utilise Power BI, Qlik Sense et Python pour créer des dashboards clairs, ad
 
 Cliquez pour découvrir les projets réalisés dans le cadre de ma formation 👇
 
-<details style="border:1px solid #e5e7eb; border-radius:8px; padding:10px; background:#fafafa;">
+<details markdown="1" style="border:1px solid #e5e7eb; border-radius:8px; padding:10px; background:#fafafa;">
   <summary style="font-size:1.05rem; font-weight:600; cursor:pointer;">📁 Découvrir la liste complète des projets</summary>
 
   <br>
@@ -61,10 +61,11 @@ Cliquez pour découvrir les projets réalisés dans le cadre de ma formation �
   | **P6 – Optimisez la gestion des données d'une boutique** | [Voir le projet](projects/P6/) |
   | **P7 – Tableau de bord Power BI (projets)** | [Voir le projet](projects/P7/) |
   | **P9 – Analyse des ventes d'une librairie** | [Voir le projet](projects/P9/) |
-  | **P11 – Étude de marché avec ACP & clustering** | [Voir le projet](projects/P11/) |
+  | **P11 – Étude de marché (ACP & clustering)** | [Voir le projet](projects/P11/) |
   | **P12 – Détection de faux billets (ML)** | [Voir le projet](projects/P12/) |
 
 </details>
+
 
 
 ## 📈 Tableaux de bord
