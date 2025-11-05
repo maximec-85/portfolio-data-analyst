@@ -70,15 +70,16 @@ Des exemples réels de dashboards conçus pour **suivre la performance**, **dét
 Chaque visuel s’appuie sur un **modèle de données propre** et des **bonnes pratiques d’accessibilité** (contrastes, lisibilité, interactions).
 
 <div style="display:flex; gap:12px; flex-wrap:wrap; margin:10px 0;">
-  <a href="dashboards.md" style="flex:1; min-width:230px; text-decoration:none; border:1px solid #e5e7eb; border-radius:10px; padding:12px;">
+  <a href="dashboards/" style="flex:1; min-width:230px; text-decoration:none; border:1px solid #e5e7eb; border-radius:10px; padding:12px;">
     <div style="font-weight:600; margin-bottom:6px;">💎 Galerie Power BI</div>
     <div style="font-size:0.95rem; color:#475569;">Trois visuels commentés (CA cumulé, suivi projets, répartition par activité).</div>
   </a>
-  <a href="mockups.md" style="flex:1; min-width:230px; text-decoration:none; border:1px solid #e5e7eb; border-radius:10px; padding:12px;">
+  <a href="mockups/" style="flex:1; min-width:230px; text-decoration:none; border:1px solid #e5e7eb; border-radius:10px; padding:12px;">
     <div style="font-weight:600; margin-bottom:6px;">🎨 Mock-ups Aéroworld</div>
     <div style="font-size:0.95rem; color:#475569;">Maquettes Canva pour cadrer UX/UI avant développement.</div>
   </a>
 </div>
+
 
 ---
 
