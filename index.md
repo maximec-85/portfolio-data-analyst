@@ -34,11 +34,15 @@ Outils principaux : Power BI, Qlik Sense, Python, SQL.
 
 J’ai avancé en cinq étapes :
 
-1. **Analyse du besoin.** Lecture du cahier des charges pour clarifier les enjeux : sécuriser, harmoniser, valoriser les données. Traduction en indicateurs : coûts, délais, qualité, efficacité.  
-2. **Planification.** Diagramme de Gantt sous Power BI pour séquencer : veille → conception → documentation → présentation.  
-3. **Veille et choix d’outils.** Comparaison Tableau / Power BI. Critères : performance, accessibilité, ergonomie.  
-4. **Production.** Cahier des charges, procédure de documentation, vidéo de formation, puis portfolio interactif pour tout centraliser.  
-5. **Posture.** Communication simple et structurée, lien constant entre indicateurs et besoin métier.
+1. **Analyse du besoin.** Lecture du cahier des charges pour clarifier les enjeux : sécuriser, harmoniser, valoriser les données. Traduction en indicateurs : coûts, délais, qualité, efficacité.
+    
+3. **Planification.** Diagramme de Gantt sous Power BI pour séquencer : veille → conception → documentation → présentation.
+   
+5. **Veille et choix d’outils.** Comparaison Tableau / Power BI. Critères : performance, accessibilité, ergonomie.
+   
+7. **Production.** Cahier des charges, procédure de documentation, vidéo de formation, puis portfolio interactif pour tout centraliser.
+   
+9. **Posture.** Communication simple et structurée, lien constant entre indicateurs et besoin métier.
 
 ---
 
@@ -58,17 +62,20 @@ Planification et suivi de l’avancement.
 Deux maquettes Canva : veille métier et présentation personnelle.  
 [Voir les mock-ups](mockups.html)
 
-### Visualisations Power BI
-Exemples commentés : CA cumulé, suivi projets, répartition par activité.  
+### Visualisations Power BI demandées par Aéroworld
+Exemples commentés : Veille métier
 [Voir la galerie](dashboards.html)
 
 ---
 
 ## ⚙️ Difficultés rencontrées et solutions
 
-**Structuration.** Beaucoup d’informations au départ. J’ai posé un ordre clair et un Gantt pour garder la vue d’ensemble.  
-**Intégration technique.** Rassembler tous les livrables dans un site unique : GitHub Pages, navigation simple, liens propres.  
-**Pédagogie.** Rendre le contenu accessible : visuels, schémas, langage direct.  
+**Structuration.** Beaucoup d’informations au départ. J’ai posé un ordre clair et un Gantt pour garder la vue d’ensemble.
+
+**Intégration technique.** Rassembler tous les livrables dans un site unique : GitHub Pages, navigation simple, liens propres.
+
+**Pédagogie.** Rendre le contenu accessible : visuels, schémas, langage direct.
+
 **Posture.** Travailler la clarté à l’oral et à l’écrit pour tenir un discours de consultant.
 
 ---
