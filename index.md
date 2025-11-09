@@ -17,10 +17,19 @@ Le client attendait :
 
 ## 👤 Présentation de mon profil
 
-Je m’appelle Maxime. J’aime transformer des données en décisions utiles.  
-Outils principaux : Power BI, Qlik Sense, Python, SQL.
+Je m’appelle Maxime, Data Analyst en formation chez OpenClassrooms. A travers mes projets, j'ai pu développer à la fois des compétences techniques et relationelles
 
-**Domaines d’appui :** data visualisation et storytelling, manipulation de données, gestion de projet et documentation.
+Sur le plan technique, je maîtrise les outils de **data visualisation** comme Power BI et Qlik Sense, ainsi que les langages Python et SQL pour l’analyse et la préparation de données.  
+J’accorde une attention particulière à la qualité et à la fiabilité des jeux de données.
+
+Au-delà des aspects techniques, je mets l’accent sur mes **compétences transversales** :  
+- **Esprit d’analyse** et recherche de sens dans les données ;  
+- **Rigueur et organisation** dans la gestion de projets ;  
+- **Communication claire et vulgarisation**, pour rendre les résultats accessibles à tous les publics ;  
+- **Curiosité et esprit d’équipe**, pour apprendre, échanger et faire évoluer les pratiques.
+
+Mon objectif est de devenir un Data Analyst capable de relier la technique aux besoins métiers, en combinant analyse, storytelling et accompagnement décisionnel.
+
 
 ### 🎥 Capsule vidéo de formation
 <div style="border:1px solid #e5e7eb; border-radius:10px; background:#fafafa; padding:12px;">
