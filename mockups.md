@@ -18,7 +18,7 @@ Elles ont permis de cadrer les **besoins utilisateurs**, de valider les **indica
 > **Outil de conception :** Canva.  
 > **Utilité :** prototype pour un tableau de bord de veille accessible et interactif.
 
-📄 [Télécharger le mock-up (PDF)](assets/pdfs/mockup_veille_metier.pdf)
+📄 [Télécharger le mock-up (PNG)](assets/images/Dashboard_veille_metier.png)
 
 ---
 
@@ -30,7 +30,7 @@ Elles ont permis de cadrer les **besoins utilisateurs**, de valider les **indica
 > **Outil de conception :** Canva.  
 > **Utilité :** maquette servant de modèle de présentation professionnelle.
 
-📄 [Télécharger le mock-up (PDF)](assets/pdfs/mockup_presentation_personnelle.pdf)
+📄 [Télécharger le mock-up (PNG)](assets/images/mockups/Dashboard_presentation.png)
 
 ---
 
