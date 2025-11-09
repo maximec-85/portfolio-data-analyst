@@ -62,7 +62,7 @@ Planification et suivi de l’avancement.
 Deux maquettes Canva : veille métier et présentation personnelle.  
 [Voir les mock-ups](mockups.html)
 
-### Visualisations Power BI demandées par Aéroworld
+### Tableaux de bords Power BI demandées par Aéroworld
 Exemples commentés : Veille métier
 [Voir la galerie](dashboards.html)
 
@@ -83,12 +83,33 @@ Exemples commentés : Veille métier
 ## 📦 Liste des livrables (ordre de production)
 
 1. **Carte mentale** (structuration initiale)  
-2. **Livrables prioritaires :** analyse des besoins, cahier des charges, procédure de documentation  
-3. **Diagramme de Gantt** (planification)  
-4. **Mock-ups** (veille métier, présentation personnelle)  
-5. **Vidéo de formation** (Loom)  
-6. **Portfolio GitHub Pages** (synthèse et présentation)
+2. **Livrables prioritaires :**
+      Analyse des besoins - 📄 [Télécharger le PDF](assets/pdfs/analyse_des_besoins_aeroworld.pdf)
+      Cahier des charges - 📄 [Télécharger le PDF](assets/pdfs/Cahier_des_charges_fonctionnels.pdf)
+      Procédure de documentation - 📄 [Télécharger le PDF](assets/pdfs/procedure_documentation.pdf)
+4. **Diagramme de Gantt** (planification)  
+5. **Mock-ups** (veille métier, présentation personnelle)  
+6. **Vidéo de formation** (Loom)  
+7. **Portfolio GitHub Pages** (synthèse et présentation)
 
+
+Carte mentale (structuration initiale)
+
+Livrables prioritaires :
+
+Analyse des besoins — <a href="#" download>PDF</a>
+
+Cahier des charges fonctionnel — <a href="#" download>PDF</a>
+
+Procédure de documentation — <a href="#" download>PDF</a>
+
+Diagramme de Gantt (planification)
+
+Mock-ups (veille métier, présentation personnelle)
+
+Vidéo de formation (Loom)
+
+Portfolio GitHub Pages (synthèse et présentation)
 ---
 
 ## 🎯 Conclusion
