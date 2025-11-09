@@ -84,32 +84,18 @@ Exemples commentés : Veille métier
 
 1. **Carte mentale** (structuration initiale)  
 2. **Livrables prioritaires :**
-      Analyse des besoins - 📄 [Télécharger le PDF](assets/pdfs/analyse_des_besoins_aeroworld.pdf)
-      Cahier des charges - 📄 [Télécharger le PDF](assets/pdfs/Cahier_des_charges_fonctionnels.pdf)
-      Procédure de documentation - 📄 [Télécharger le PDF](assets/pdfs/procedure_documentation.pdf)
-4. **Diagramme de Gantt** (planification)  
-5. **Mock-ups** (veille métier, présentation personnelle)  
-6. **Vidéo de formation** (Loom)  
-7. **Portfolio GitHub Pages** (synthèse et présentation)
 
+  Analyse des besoins — 📄 [Télécharger le PDF](assets/pdfs/analyse_des_besoins_aeroworld.pdf)
 
-Carte mentale (structuration initiale)
+  Cahier des charges fonctionnel — 📄 [Télécharger le PDF](assets/pdfs/Cahier_des_charges_fonctionnels.pdf)
 
-Livrables prioritaires :
+  Procédure de documentation — 📄 [Télécharger le PDF](assets/pdfs/procedure_documentation.pdf)
+  
+3. **Diagramme de Gantt** (planification)  
+4. **Mock-ups** (veille métier, présentation personnelle)  
+5. **Vidéo de formation** (Loom)  
+6. **Portfolio GitHub Pages** (synthèse et présentation)
 
-Analyse des besoins — <a href="#" download>PDF</a>
-
-Cahier des charges fonctionnel — <a href="#" download>PDF</a>
-
-Procédure de documentation — <a href="#" download>PDF</a>
-
-Diagramme de Gantt (planification)
-
-Mock-ups (veille métier, présentation personnelle)
-
-Vidéo de formation (Loom)
-
-Portfolio GitHub Pages (synthèse et présentation)
 ---
 
 ## 🎯 Conclusion
