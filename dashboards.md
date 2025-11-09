@@ -33,7 +33,8 @@ Ils mettent en avant l’expérimentation et la comparaison de différents **out
 > **Méthodes testées :** Agile, Storytelling visuel, Transformation, Standardisation, Documentation.  
 > **Principaux graphiques :**  
 > - Nuage de points : *Impact* vs *Effort* (priorisation des méthodes)  
-> - Radar multi-critères : gain de temps, simplicité, satisfaction, reproductibilité, clarté  
+> - Radar multi-critères : gain de temps, simplicité, satisfaction, reproductibilité, clarté
+> - Donut : répartition des méthodes adoptées / en test / abandonnées  
 
 📈 **Résultat :** ce tableau de bord met en avant une **démarche expérimentale mesurable**, fondée sur l’analyse de l’impact et de la faisabilité de chaque méthode, démontrant une **posture de consultant Data**.
 
