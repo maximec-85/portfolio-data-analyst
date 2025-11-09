@@ -88,15 +88,16 @@ Ils présentent les tests d’outils et de méthodes, avec la mesure de leur imp
 2. **Livrables prioritaires**
 
    <div style="margin-left: 1rem; line-height: 1.6;">
-      <strong>Analyse des besoins</strong>  
+       - Analyse des besoins 
      <a href="assets/pdfs/analyse_des_besoins_aeroworld.pdf" download style="color:#2563eb; text-decoration:none;">Télécharger le PDF</a>  
      <br>
-      <strong>Cahier des charges fonctionnel</strong>  
+      - Cahier des charges fonctionnel  
      <a href="assets/pdfs/Cahier_des_charges_fonctionnels.pdf" download style="color:#2563eb; text-decoration:none;">Télécharger le PDF</a>  
      <br>
-      <strong>Procédure de documentation</strong>  
+      - Procédure de documentation 
      <a href="assets/pdfs/procedure_documentation.pdf" download style="color:#2563eb; text-decoration:none;">Télécharger le PDF</a>
    </div>
+   <br>
 
 3. **Diagramme de Gantt** — *Planification du projet*  
 4. **Mock-ups** — *Veille métier & présentation personnelle*  
