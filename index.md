@@ -63,7 +63,8 @@ Deux maquettes Canva : veille métier et présentation personnelle.
 [Voir les mock-ups](mockups.html)
 
 ### Tableaux de bords Power BI demandées par Aéroworld
-Exemples commentés : Veille métier
+Ces tableaux de bord illustrent la veille métier et technologique menée pour Aéroworld.
+Ils présentent les tests d’outils et de méthodes, avec la mesure de leur impact, la priorisation et l’expérimentation concrète des approches utilisées (Agile, Kanban, Storytelling, etc.).
 [Voir la galerie](dashboards.html)
 
 ---
@@ -82,19 +83,26 @@ Exemples commentés : Veille métier
 
 ## 📦 Liste des livrables (ordre de production)
 
-1. **Carte mentale** (structuration initiale)  
-2. **Livrables prioritaires :**
+1. **Carte mentale** — *Structuration initiale*
 
-  Analyse des besoins — 📄 [Télécharger le PDF](assets/pdfs/analyse_des_besoins_aeroworld.pdf)
+2. **Livrables prioritaires**
 
-  Cahier des charges fonctionnel — 📄 [Télécharger le PDF](assets/pdfs/Cahier_des_charges_fonctionnels.pdf)
+   <div style="margin-left: 1rem; line-height: 1.6;">
+      <strong>Analyse des besoins</strong>  
+     <a href="assets/pdfs/analyse_des_besoins_aeroworld.pdf" download style="color:#2563eb; text-decoration:none;">Télécharger le PDF</a>  
+     <br>
+      <strong>Cahier des charges fonctionnel</strong>  
+     <a href="assets/pdfs/Cahier_des_charges_fonctionnels.pdf" download style="color:#2563eb; text-decoration:none;">Télécharger le PDF</a>  
+     <br>
+      <strong>Procédure de documentation</strong>  
+     <a href="assets/pdfs/procedure_documentation.pdf" download style="color:#2563eb; text-decoration:none;">Télécharger le PDF</a>
+   </div>
 
-  Procédure de documentation — 📄 [Télécharger le PDF](assets/pdfs/procedure_documentation.pdf)
-  
-3. **Diagramme de Gantt** (planification)  
-4. **Mock-ups** (veille métier, présentation personnelle)  
-5. **Vidéo de formation** (Loom)  
-6. **Portfolio GitHub Pages** (synthèse et présentation)
+3. **Diagramme de Gantt** — *Planification du projet*  
+4. **Mock-ups** — *Veille métier & présentation personnelle*  
+5. **Vidéo de formation** — *Loom (création d’un dashboard Power BI)*  
+6. **Portfolio GitHub Pages** — *Synthèse et présentation finale*
+
 
 ---
 
