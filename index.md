@@ -64,7 +64,8 @@ Deux maquettes Canva : veille métier et présentation personnelle.
 
 ### Tableaux de bords Power BI demandées par Aéroworld
 Ces tableaux de bord illustrent la veille métier et technologique menée pour Aéroworld.
-Ils présentent les tests d’outils et de méthodes, avec la mesure de leur impact, la priorisation et l’expérimentation concrète des approches utilisées (Agile, Kanban, Storytelling, etc.).
+Ils présentent les tests d’outils et de méthodes, avec la mesure de leur impact, la priorisation et l’expérimentation concrète des approches utilisées (Agile, Storytelling, etc.).
+
 [Voir la galerie](dashboards.html)
 
 ---
@@ -98,7 +99,6 @@ Ils présentent les tests d’outils et de méthodes, avec la mesure de leur imp
      <a href="assets/pdfs/procedure_documentation.pdf" download style="color:#2563eb; text-decoration:none;">Télécharger le PDF</a>
    </div>
    <br>
-
 3. **Diagramme de Gantt** — *Planification du projet*  
 4. **Mock-ups** — *Veille métier & présentation personnelle*  
 5. **Vidéo de formation** — *Loom (création d’un dashboard Power BI)*  
