@@ -23,10 +23,10 @@ Sur le plan technique, je maîtrise les outils de **data visualisation** comme P
 J’accorde une attention particulière à la qualité et à la fiabilité des jeux de données.
 
 Au-delà des aspects techniques, je mets l’accent sur mes **compétences transversales** :  
-- **Esprit d’analyse** et recherche de sens dans les données ;  
-- **Rigueur et organisation** dans la gestion de projets ;  
-- **Communication claire et vulgarisation**, pour rendre les résultats accessibles à tous les publics ;  
-- **Curiosité et esprit d’équipe**, pour apprendre, échanger et faire évoluer les pratiques.
+- Esprit d’analyse et recherche de sens dans les données
+- Rigueur et organisation dans la gestion de projets
+- Communication claire et vulgarisation, pour rendre les résultats accessibles à tous les publics
+- Curiosité et esprit d’équipe, pour apprendre, échanger et faire évoluer les pratiques.
 
 Mon objectif est de devenir un Data Analyst capable de relier la technique aux besoins métiers, en combinant analyse, storytelling et accompagnement décisionnel.
 
