@@ -12,9 +12,7 @@ Ils mettent en avant l’expérimentation et la comparaison de différents **out
 
 ## 🧩 1. Tableau de bord – Tests d’outils
 
-<div style="border:1px solid #e5e7eb; border-radius:8px; overflow:hidden; margin-top:10px;">
-  <iframe width="100%" height="400" src="https://app.powerbi.com/view?r=eyJrIjoiNTk4OGQ5YjQtYjExMi00ZjcyLTk5OGQtMzQyZDkwODY3OTA5IiwidCI6IjI3MGFjMzhiLTE3YTYtNDM4NS04NDgyLTBlZDUzOWE3ZjRhZSIsImMiOjl9&pageName=138469702df1c4443f23" frameborder="0" allowFullScreen="true"></iframe>
-</div>
+![Tableau de bord – Tests d’outils](assets/images/dashboards/dashboard_outil.png)
 
 > **Objectif :** comparer plusieurs outils de data visualisation selon des critères d’intérêt global et de maîtrise personnelle.  
 > **Outils testés :** Power BI, Tableau, Qlik Sense, Excel  
@@ -29,9 +27,7 @@ Ils mettent en avant l’expérimentation et la comparaison de différents **out
 
 ## ⚙️ 2. Tableau de bord – Tests de méthodes
 
-<div style="border:1px solid #e5e7eb; border-radius:8px; overflow:hidden; margin-top:10px;">
-  <iframe width="100%" height="400" src="https://app.powerbi.com/view?r=eyJrIjoiNTk4OGQ5YjQtYjExMi00ZjcyLTk5OGQtMzQyZDkwODY3OTA5IiwidCI6IjI3MGFjMzhiLTE3YTYtNDM4NS04NDgyLTBlZDUzOWE3ZjRhZSIsImMiOjl9&pageName=2b52be65ee4cc06a1dba" frameborder="0" allowFullScreen="true"></iframe>
-</div>
+![Tableau de bord – Tests de méthodes](assets/images/dashboards/dashboard_methode.png)
 
 > **Objectif :** évaluer et prioriser les méthodes de travail expérimentées dans le cadre du projet Aéroworld.  
 > **Méthodes testées :** Agile, Storytelling visuel, Transformation, Standardisation, Documentation.  
