@@ -1,48 +1,39 @@
 ---
-title: Exemples de visualisations Power BI
+title: Tableaux de bord – Aéroworld
 layout: default
 ---
 
-# 📊 Exemples de tableaux de bord Power BI
+# 📊 Tableaux de bord Power BI – Aéroworld
 
-Cette section présente trois visualisations réalisées dans Power BI dans le cadre de mes projets de data visualisation.  
-Elles illustrent mes compétences en **modélisation**, **analyse de performance** et **construction de rapports clairs et interactifs**.
-
----
-
-## 💎 1. Évolution du chiffre d’affaires cumulé mois par mois
-![Évolution du chiffre d’affaires cumulé](assets/images/dashboards/Graph_CA_cumul.png)
-
-> **Objectif :** suivre mois par mois l’évolution du **chiffre d’affaires cumulé** d’une boutique de bijoux.  
-> **Outil :** Power BI  
-> **Type de graphique :** courbe cumulative  
-> **Résultat :** permet d’identifier rapidement les tendances saisonnières et de comparer la progression de plusieurs années sur une même échelle.
-
-📂 **Contexte :** projet 7 – *Création d’un tableau de bord libre (option B)*.
+Ces tableaux de bord ont été conçus pour répondre aux demandes du client **Aéroworld**, dans le cadre d’une **veille métier et technologique**.  
+Ils mettent en avant l’expérimentation et la comparaison de différents **outils** et **méthodes de travail**, avec des **indicateurs mesurables** sur l’impact, l’efficacité et la priorisation.
 
 ---
 
-## 🧱 2. Suivi budgétaire des projets
-![Suivi des coûts réels vs prévisionnels](assets/images/dashboards/Graph_projets_barres.png)
+## 🧩 1. Tableau de bord – Tests d’outils
+![Dashboard tests d’outils](assets/images/dashboards/dashboard_outils.png)
 
-> **Objectif :** comparer les **coûts réels** et **coûts planifiés** des projets afin d’identifier les dépassements budgétaires.  
-> **Outil :** Power BI  
-> **Type de graphique :** barres comparatives + ligne de suivi  
-> **Résultat :** met en évidence les projets à **surveiller** (écart > 15 %) et ceux **hors prévisionnel** (écart entre 0 % et 15 %).
+> **Objectif :** comparer plusieurs outils de data visualisation selon des critères d’intérêt global et de maîtrise personnelle.  
+> **Outils testés :** Power BI, Tableau, Qlik Sense, Excel  
+> **Principaux graphiques :**  
+> - Nuage de points : *Intérêt global* (popularité, scalabilité, ergonomie, coût, polyvalence) vs *Maîtrise personnelle*  
+> - Graphique radar : comparaison multi-critères des outils  
+> - KPI : nombre d’outils testés, temps moyen de prise en main  
 
-📂 **Contexte :** projet 7 – *Dashboard de suivi des projets et indicateurs de performance.*
+📊 **Résultat :** ce tableau de bord illustre ma capacité à structurer une **veille technologique active**, à évaluer objectivement les outils et à représenter la synthèse sous forme d’indicateurs visuels clairs.
 
 ---
 
-## 📈 3. Répartition du chiffre d’affaires par activité
-![Répartition du chiffre d’affaires par activité](assets/images/dashboards/Graph_barres_cumul.png)
+## ⚙️ 2. Tableau de bord – Tests de méthodes
+![Dashboard tests de méthodes](assets/images/dashboards/dashboard_methodes.png)
 
-> **Objectif :** visualiser la **proportion de chiffre d’affaires** par type d’activité sur plusieurs années.  
-> **Outil :** Power BI  
-> **Type de graphique :** barres empilées  
-> **Résultat :** permet de comparer la contribution des activités principales (ventes boutique, retours, réparations…) et d’observer l’évolution de leur poids dans le temps.
+> **Objectif :** évaluer et prioriser les méthodes de travail expérimentées dans le cadre du projet Aéroworld.  
+> **Méthodes testées :** Agile, Storytelling visuel, Transformation, Standardisation, Documentation.  
+> **Principaux graphiques :**  
+> - Nuage de points : *Impact* vs *Effort* (priorisation des méthodes)  
+> - Radar multi-critères : gain de temps, simplicité, satisfaction, reproductibilité, clarté  
 
-📂 **Contexte :** projet 7 – *Analyse des ventes d’une bijouterie (option libre).*
+📈 **Résultat :** ce tableau de bord met en avant une **démarche expérimentale mesurable**, fondée sur l’analyse de l’impact et de la faisabilité de chaque méthode, démontrant une **posture de consultant Data**.
 
 ---
 
