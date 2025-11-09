@@ -97,7 +97,7 @@ Ils présentent les tests d’outils et de méthodes, avec la mesure de leur imp
      <br>
       - Procédure de documentation 
      <a href="assets/pdfs/procedure_documentation.pdf" download style="color:#2563eb; text-decoration:none;">Télécharger le PDF</a>
-   </div>
+   </div><br>
 3. **Diagramme de Gantt** — *Planification du projet*  
 4. **Mock-ups** — *Veille métier & présentation personnelle*  
 5. **Vidéo de formation** — *Loom (création d’un dashboard Power BI)*  
