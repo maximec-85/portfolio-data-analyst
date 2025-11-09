@@ -1,4 +1,4 @@
-# 🚀 Projet Aéroworld – création d’un portfolio de Data Analyst
+#  Projet Aéroworld – création d’un portfolio de Data Analyst
 
 Ce projet fait partie de mon parcours Data Analyst (OpenClassrooms).  
 Objectif : concevoir un portfolio professionnel qui présente mes réalisations, ma démarche et ma posture de consultant.
@@ -98,7 +98,6 @@ Ils présentent les tests d’outils et de méthodes, avec la mesure de leur imp
       - Procédure de documentation 
      <a href="assets/pdfs/procedure_documentation.pdf" download style="color:#2563eb; text-decoration:none;">Télécharger le PDF</a>
    </div>
-   <br>
 3. **Diagramme de Gantt** — *Planification du projet*  
 4. **Mock-ups** — *Veille métier & présentation personnelle*  
 5. **Vidéo de formation** — *Loom (création d’un dashboard Power BI)*  
